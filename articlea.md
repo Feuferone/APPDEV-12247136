@@ -5,4 +5,4 @@ easy-to-read syntax, which makes it an ideal choice for beginners and experts al
 we will explore some of the key features of Python and why it is such a popular choice for
 programmers.
 
-!(Grafik.png "Python Sign")
+![Python Sign](Grafik.png)
