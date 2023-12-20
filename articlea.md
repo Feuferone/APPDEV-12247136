@@ -40,7 +40,7 @@ and create custom tools for working with GIS data.
 
 ## Getting Started with Python
 To get started with Python, you will need to download and install the Python software. You can
-download the latest version of Python from the official [Python website] (https://www.python.org
+download the latest version of Python from the official [Python website](https://www.python.org
 /downloads) (https://www.python.org/downloads). Once you have installed Python, you can start writing and running code.
 
 To write code in Python, you can use any text editor or integrated development environment (IDE).
@@ -65,6 +65,7 @@ For example, the following code defines a function called greet that prints a me
 ```python
 def greet(name):
     print(f"Hello, {name}")
+
 greet("John")
 ```
 When the code is run, it will print "Hello, John".
@@ -94,8 +95,8 @@ As the famous computer scientist, Guido van Rossum, the creator of Python, said:
 
 ## Resources
 Here are some helpful resources for learning more about Python:
-- Python.org - The official website for Python, with a wealth of information and resources for learning the language.
-- Python for Data Science Handbook - A free online book that provides a comprehensive introduction
+- [Python.org](https://wwww.python.org) - The official website for Python, with a wealth of information and resources for learning the language.
+- [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - A free online book that provides a comprehensive introduction
 
 ----------------------------------------------------------------------------------------------------------------------
 *Article content is generated using ChatGPT.*
